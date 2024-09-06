@@ -114,7 +114,7 @@ header .serach-box input:focus::placeholder {
 }
 header .login-box {
   position: absolute;
-  right: -15rem;
+  right: -20rem;
   bottom: -14rem;
   background-color: #bc9667;
   padding: 15px;
